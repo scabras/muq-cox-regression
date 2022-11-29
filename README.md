@@ -548,4 +548,4 @@ Here is the custom set of functions.
          colnames(X),cex=0.5)
     abline(h=0.5)
 
-![](github-version-code_files/figure-markdown_strict/unnamed-chunk-3-1.png)
+![Results](res.png)
